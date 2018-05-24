@@ -1,0 +1,25 @@
+<banco>
+  <clientes>
+    <cliente>
+      <cliente_id>c1</cliente_id>
+      <nombre>Micky Vainilla</nombre>
+      <direccion>Landon Donovan 652</direccion>
+      <dni>25555123</dni>
+      <cuentas/>
+    </cliente>
+    <cliente>
+      <cliente_id>c2</cliente_id>
+      <nombre>Mimo Paez</nombre>
+      <direccion>Las Locas 1249</direccion>
+      <dni>32786333</dni>
+      <cuentas/>
+    </cliente>
+    <cliente>
+      <cliente_id>c3</cliente_id>
+      <nombre>Ricardo Carotenuto</nombre>
+      <direccion>Gral Chamizo 50</direccion>
+      <dni>11222333</dni>
+      <cuentas/>
+    </cliente>
+  </clientes>
+</banco>

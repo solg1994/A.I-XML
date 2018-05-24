@@ -1,0 +1,39 @@
+<banco>
+  <clientes>
+    <cliente id="c1">
+      <nombre>Micky Vainilla</nombre>
+      <direccion>Landon Donovan 652</direccion>
+      <dni>25555123</dni>
+      <cuentas>
+        <cuenta id="1" tipo="caja_ahorro">
+          <balance>250</balance>
+          <interes>0.02</interes>
+        </cuenta>
+        <cuenta id="3" tipo="cuenta_corriente">
+          <balance>4025</balance>
+        </cuenta>
+      </cuentas>
+    </cliente>
+    <cliente id="c2">
+      <nombre>Mimo Paez</nombre>
+      <direccion>Las Locas 1249</direccion>
+      <dni>32786333</dni>
+      <cuentas>
+        <cuenta id="2" tipo="caja_ahorro">
+          <balance>15075</balance>
+          <interes>0.03</interes>
+        </cuenta>
+      </cuentas>
+    </cliente>
+    <cliente id="c3">
+      <nombre>Ricardo Carotenuto</nombre>
+      <direccion>Gral Chamizo 50</direccion>
+      <dni>11222333</dni>
+      <cuentas>
+        <cuenta id="5" tipo="cuenta_corriente">
+          <balance>3251</balance>
+        </cuenta>
+      </cuentas>
+    </cliente>
+  </clientes>
+</banco>
